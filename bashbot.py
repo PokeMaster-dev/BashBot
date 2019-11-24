@@ -23,7 +23,7 @@ def launch():
     prefix = settings().get('commands.prefixes', ['$'])[0]
     token = settings().get('discord.token')
 
-    if token == "TOKEN HERE":
+    if token == "hhhNjQ1OTIyOTIyMTUzNzcxMDEw.Xdnnmw.oN_pXQNIM7HRMwXwdryZxBpKyLk":
         logger.error('You need to specify bot TOKEN in config.toml')
         return
 
